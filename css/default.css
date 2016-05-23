@@ -7,15 +7,10 @@
   
   body{
     background-color: green;
-    margin: 48px 0 0 0;
   }
   
   header{
     background-color: yellow;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
   }
   
   .box{
