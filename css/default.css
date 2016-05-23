@@ -11,6 +11,7 @@
   
   header{
     background-color: yellow;
+    z-index: +1;
   }
   
   .box{
@@ -37,3 +38,9 @@
     clear: both;
   }
 　
+#IMG_0175{
+  width: 24px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
