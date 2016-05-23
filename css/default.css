@@ -25,6 +25,7 @@
     height: 90px;
     margin: 5px;
     float: left;
+    overflow: auto;
   }
   
   aside{
